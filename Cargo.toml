@@ -1,0 +1,5 @@
+[package]
+
+name = "lunchr"
+version = "0.0.1"
+authors = [ "Matt Terry <matt.terry@gmail.com>" ]
